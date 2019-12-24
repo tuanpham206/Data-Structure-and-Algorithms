@@ -1,0 +1,3 @@
+/Volumes/Tuan/Data-Structure-and-Algorithms/Tail/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/Tuan/Data-Structure-and-Algorithms/Tail/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/Tuan/Data-Structure-and-Algorithms/Tail/cmake-build-debug/CMakeFiles/Tail.dir
