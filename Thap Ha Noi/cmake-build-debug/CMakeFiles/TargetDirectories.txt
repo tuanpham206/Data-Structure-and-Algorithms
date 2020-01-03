@@ -1,0 +1,3 @@
+/Volumes/BOOTCAMP/Data-Structure-and-Algorithms/Thap Ha Noi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/BOOTCAMP/Data-Structure-and-Algorithms/Thap Ha Noi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/BOOTCAMP/Data-Structure-and-Algorithms/Thap Ha Noi/cmake-build-debug/CMakeFiles/Thap_Ha_Noi.dir
