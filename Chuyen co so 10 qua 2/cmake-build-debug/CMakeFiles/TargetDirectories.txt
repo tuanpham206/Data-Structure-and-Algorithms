@@ -1,0 +1,3 @@
+/Volumes/BOOTCAMP/Data-Structure-and-Algorithms/Chuyen co so 10 qua 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/BOOTCAMP/Data-Structure-and-Algorithms/Chuyen co so 10 qua 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/BOOTCAMP/Data-Structure-and-Algorithms/Chuyen co so 10 qua 2/cmake-build-debug/CMakeFiles/Chuyen_co_so_10_qua_2.dir
