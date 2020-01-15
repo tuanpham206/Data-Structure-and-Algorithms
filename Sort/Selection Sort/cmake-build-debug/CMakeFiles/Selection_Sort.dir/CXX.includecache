@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/BOOTCAMP/Data-Structure-and-Algorithms/Sort/Selection Sort/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+

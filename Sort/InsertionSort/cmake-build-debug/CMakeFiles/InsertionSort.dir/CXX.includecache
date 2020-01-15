@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/itviet/Documents/IT/Data-Structure-and-Algorithms/Sort/InsertionSort/main.cpp
+iostream
+-
+time.h
+-
+stdlib.h
+-
+
